@@ -1,0 +1,3 @@
+name: sbt-assembly
+version: 0.1.0
+description: runs sbt assembly on a sbt/scala project
